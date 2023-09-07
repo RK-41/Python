@@ -5,6 +5,6 @@
 ### For basic understanding.
 
 ### Libraries:
-	#### 1.NumPy	
- 	#### 2.Pandas
-	#### 3.Matplotlib
+	1.NumPy	
+ 	2.Pandas
+	3.Matplotlib
